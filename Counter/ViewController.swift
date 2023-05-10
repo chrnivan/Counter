@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
     private var counter: Int = 0
     
     @IBOutlet weak var textCounter: UILabel!
